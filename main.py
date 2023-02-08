@@ -1,6 +1,6 @@
 import requests
 
-from scraper import Scraper
+from scraper.scraper import Scraper
 
 BASE_URL = 'https://github.com/bollwarm/DataStructuresAlgorithms'
 
